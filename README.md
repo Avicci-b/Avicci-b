@@ -36,6 +36,42 @@ An insurance analytics project combining exploratory analysis, statistical testi
 
 🔗 [View Project](https://github.com/Avicci-b/Insurance-risk-analytics)
 
+## Skills & Technologies
+
+### Data Analysis
+
+* Python
+* pandas
+* NumPy
+* SQL
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistics
+
+### Machine Learning
+
+* scikit-learn
+* Classification & Regression
+* Feature Engineering
+* Model Evaluation
+* Model Interpretability
+
+### Tools & Workflow
+
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
+* DVC
+* MLflow
+* Streamlit
+
+## Interests
+
+* Time Series Analysis
+* Forecasting
+* Applying statistical methods to real-world problems
+
+
 ## 🌱 Currently Learning
 
 * Advanced Python for data science
