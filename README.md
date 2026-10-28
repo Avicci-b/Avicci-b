@@ -1,8 +1,8 @@
 # Hi, I'm Biniyam 👋
 
-### Information Science Student | Data Science & Machine Learning
+### Information Systems Student | Data Science & Machine Learning
 
-I'm an Information Science student at Addis Ababa University with practical training in Data Science and AI through the KAIM program.
+I'm an Information Systems student at Addis Ababa University with practical training in Data Science and AI through the KAIM program.
 
 I enjoy exploring datasets, identifying meaningful patterns, and building data-driven solutions to real-world problems. My current focus is strengthening my skills in data analytics, predictive modeling, and machine learning.
 
